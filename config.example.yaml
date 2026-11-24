@@ -1,0 +1,18 @@
+﻿location:
+  name: Example City
+  latitude: 52.52000
+  longitude: 13.40500
+  timezone: Europe/Berlin
+
+units:
+  temperature: celsius
+  wind: kmh
+
+display:
+  skin: minimal
+  orientation: landscape
+  width: 1072
+  height: 1448
+  time_format: 24h
+  refresh_minutes: 15
+
